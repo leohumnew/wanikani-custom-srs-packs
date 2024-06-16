@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Onomatopoeia",
+        "author": "Anki",
+        "version": "1.0",
+        "description": "This is a pack containing onomatopoeia. Pack has had some basic proofreading, but likely still contains errors. Please report / create an issue or PR if you find any.",
+        "filename": "onomatopoeia.json"
+    },
+    {
+        "id": "2",
+        "name": "Japanese Foods",
+        "author": "Anki",
+        "version": "1.0",
+        "description": "This is a pack containing Japanese foods, along with descriptions of them. Pack has had some basic proofreading, but likely still contains errors. Please report / create an issue or PR if you find any.",
+        "filename": "japanese_foods.json"
+    },
+    {
+        "id": "3",
+        "name": "Remaining Joyo Kanji",
+        "author": "noelnimstad",
+        "version": "1.0",
+        "description": "This is a pack containing the remaining Joyo Kanji not on WaniKani. Has readings but no meaning / reading explanations.",
+        "filename": "https://raw.githubusercontent.com/NoelNimstad/wk-custom-srs-joyo-pack/master/joyo.json"
+    }
+]

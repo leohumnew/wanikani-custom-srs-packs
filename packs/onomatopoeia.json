@@ -1,0 +1,4108 @@
+{
+"name": "Onomatopoeia",
+"author": "Anki",
+"version": "1.0",
+"lvlType": "none",
+"items": [
+{
+"id": 0,
+"info": {
+"type": "KanaVocabulary",
+"characters": "あつあつ",
+"meanings": [
+"piping hot",
+"in love"
+],
+"meaning_wl":["steaming", "crazy for", "boiling"],
+"meaning_expl": "① Describes something that looks piping hot<br>② Describes a couple who are head over heels in love<br><br>Originates from: 熱い",
+"readings": [
+"あつあつ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"あつあつをお召し上がりください"
+],
+"ctx_en": [
+"Please eat it when it's piping hot."
+]
+}
+},
+{
+"id": 1,
+"info": {
+"type": "KanaVocabulary",
+"characters": "あっぷあっぷ",
+"meanings": [
+"floundering", "in trouble"
+],
+"meaning_wl":["in deep water", "out of one's depth", "drowning"],
+"meaning_expl": "① Describes someone floundering in water and almost drowning.<br>② Describes someone in trouble or difficulty. In deep water.",
+"readings": [
+"あっぷあっぷ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"会社は多額の借金であっぷあっぷの状態にある"
+],
+"ctx_en": [
+"Our company is drowning in debt."
+]
+}
+},
+{
+"id": 2,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いきいき",
+"meanings": [
+"full of life", "vivid"
+],
+"meaning_wl":["lifelike", "lively"],
+"meaning_expl": "Describes someone or something that is full of life. Lifelike. Vivid.<br><br>Originates from: 生きる",
+"readings": [
+"いきいき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"この町が生き生きしてくるのは暗くなってからです"
+],
+"ctx_en": [
+"This town comes alive after it gets dark."
+]
+}
+},
+{
+"id": 3,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いじいじ",
+"meanings": [
+"dishonest", "timid", "servile"
+],
+"meaning_wl":["reserved", "cowardly", "liar"],
+"meaning_expl": "Describes someone unable to be honest or frank in front of others. Also describes reserved, timid, or servile behavior or attitude. Cowardly.<br><br>Originates from: いじける",
+"readings": [
+"いじいじ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"いじいじと答える"
+],
+"ctx_en": [
+"He will answer timidly."
+]
+}
+},
+{
+"id": 4,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いそいそ",
+"meanings": [
+"excitedly", "cheerfully"
+],
+"meaning_wl":["full of joy", "full of expectation"],
+"meaning_expl": "Describes someone who moves as if full of joy or expectation. Cheerfully. Excitedly.",
+"readings": [
+"いそいそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子供たちはいそいそとピクニックに行った"
+],
+"ctx_en": [
+"The children happily went on a picnic."
+]
+}
+},
+{
+"id": 5,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いちいち",
+"meanings": [
+"one by one", "persistently"
+],
+"meaning_wl":["in detail"],
+"meaning_expl": "One by one. In detail. Persistently.<br><br>Originates from: 一 (いち)",
+"readings": [
+"いちいち"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"いちいちにわたって立証する"
+],
+"ctx_en": [
+"He proves them one by one"
+]
+}
+},
+{
+"id": 6,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いやいや",
+"meanings": [
+"reluctantly", "with a heavy heart"
+],
+"meaning_wl":["to refuse"],
+"meaning_expl": "Describes acting reluctantly or with a heavy heart. To refuse (+する)<br><br>Originates from: いやだ",
+"readings": [
+"いやいや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"いやいやその決定に同意する。"
+],
+"ctx_en": [
+"He will agree to the decisions reluctantly."
+]
+}
+},
+{
+"id": 7,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いよいよ",
+"meanings": [
+"at last", "even more"
+],
+"meaning_wl":["without a doubt", "decidedly", "final stage"],
+"meaning_expl": "① At last.<br>② Even more.<br>③ Without a doubt; decidedly.<br>④ The final stage of something.",
+"readings": [
+"いよいよ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"雨がいよいよ激しくなった"
+],
+"ctx_en": [
+"The rain came harder and harder."
+]
+}
+},
+{
+"id": 8,
+"info": {
+"type": "KanaVocabulary",
+"characters": "いらいら",
+"meanings": [
+"irritated", "angry"
+],
+"meaning_wl":["annoyed", "frustrated"],
+"meaning_expl": "Describes someone who is irritated or angry because things are not going as desired.",
+"readings": [
+"いらいら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"隣のうるさい犬にはいらいらする"
+],
+"ctx_en": [
+"The neighbor's noisy dog irritates me."
+]
+}
+},
+{
+"id": 9,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うきうき",
+"meanings": [
+"buoyant", "happy"
+],
+"meaning_wl":["excited", "cheerful"],
+"meaning_expl": "Describes someone who is happy and excited. In a buoyant mood.<br><br>Originates from: 浮く",
+"readings": [
+"うきうき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は仕事が見つかってうきうきしていた"
+],
+"ctx_en": [
+"She was delighted because she found a job."
+]
+}
+},
+{
+"id": 10,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うじうじ",
+"meanings": [
+"hesitant", "irresolute"
+],
+"meaning_wl":["wishy-washy", "indecisive"],
+"meaning_expl": "Hesitant, irresolute, wishy washy. Used to describe someone who wants to do something but cannot bring himself or herself to do it.",
+"readings": [
+"うじうじ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"父親は息子が何につけうじうじするのが大嫌いだった"
+],
+"ctx_en": [
+"The father hated his son being indecisive about everything."
+]
+}
+},
+{
+"id": 11,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うじゃうじゃ",
+"meanings": [
+"swarming", "crawling with"
+],
+"meaning_expl": "Describes many small things gathered together and moving, such as a swarm of insects or a crowd of people seen from a distance.",
+"readings": [
+"うじゃうじゃ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"葉っぱには毛虫がうじゃうじゃいた"
+],
+"ctx_en": [
+"Caterpillars swarmed on the leaves."
+]
+}
+},
+{
+"id": 12,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うずうず",
+"meanings": [
+"itching to"
+],
+"meaning_wl":["restless", "eager"],
+"meaning_expl": "Describes someone itching to do something.<br><br>Originates from: うずく",
+"readings": [
+"うずうず"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は海へ行きたくてうずうずしている"
+],
+"ctx_en": [
+"He is itching to go to the sea."
+]
+}
+},
+{
+"id": 13,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うだうだ",
+"meanings": [
+"long-winded", "tedious"
+],
+"meaning_wl":["slow", "meaningless"],
+"meaning_expl": "① Describes someone who is slow and lazy. Idle.<br>② Describes someone saying something meaningless in a drawn-out manner.",
+"readings": [
+"うだうだ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"つまらないことをうだうだ言うな"
+],
+"ctx_en": [
+"Don't say such long, boring things."
+]
+}
+},
+{
+"id": 14,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うとうと",
+"meanings": [
+"dozing", "napping"
+],
+"meaning_expl": "Describes someone dozing. Napping.",
+"readings": [
+"うとうと"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"疲れていたので、私は何回か授業中にうとうとした"
+],
+"ctx_en": [
+"I was tired, so I dozed off in class a few times."
+]
+}
+},
+{
+"id": 15,
+"info": {
+"type": "KanaVocabulary",
+"characters": "うろうろ",
+"meanings": [
+"wandering aimlessly", "loafing around"
+],
+"meaning_wl":["hanging around", "wandering"],
+"meaning_expl": "Describes someone wandering about aimlessly or someone who has lost sight of their goal. Loafing around. Hanging around.",
+"readings": [
+"うろうろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"銀行のあたりをうろうろしていると怪しまれるよ"
+],
+"ctx_en": [
+"If you are hanging around the bank, you'll be suspected."
+]
+}
+},
+{
+"id": 16,
+"info": {
+"type": "KanaVocabulary",
+"characters": "おずおず",
+"meanings": [
+"fearfully", "diffidently"
+],
+"meaning_wl":["gingerly", "timidly"],
+"meaning_expl": "Describes behaving in a fearful or diffident manner. Gingerly.<br><br>Originates from: おず (おじる)",
+"readings": [
+"おずおず"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は遅刻したのでおずおずと教室に入った"
+],
+"ctx_en": [
+"She was late, so she entered the room timidly."
+]
+}
+},
+{
+"id": 17,
+"info": {
+"type": "KanaVocabulary",
+"characters": "おたおた",
+"meanings": [
+"speechless", "stunned"
+],
+"meaning_expl": "Describes someone who is too surprised or shocked to respond properly.",
+"readings": [
+"おたおた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"突然の指名をうけておたおたする"
+],
+"ctx_en": [
+"He was flustered by the [unexpected] nomination.<br>突然 - sudden, abrupt, unexpected"
+]
+}
+},
+{
+"id": 18,
+"info": {
+"type": "KanaVocabulary",
+"characters": "おどおど",
+"meanings": [
+"cowering", "fearful"
+],
+"meaning_wl":["restless", "nervous"],
+"meaning_expl": "Describes someone who is restless with fear or uncertainty. Cowering.",
+"readings": [
+"おどおど"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"少年がおどおどしながら犬に近づいた"
+],
+"ctx_en": [
+"The young boy was cowering as he approached the dog."
+]
+}
+},
+{
+"id": 19,
+"info": {
+"type": "KanaVocabulary",
+"characters": "おろおろ",
+"meanings": [
+"flustered", "confused"
+],
+"meaning_expl": "Describes someone who is confused and does not know what to do. Flustered.",
+"readings": [
+"おろおろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"おろおろとへたな弁解をした"
+],
+"ctx_en": [
+"He made a poor excuse because he was panicking."
+]
+}
+},
+{
+"id": 20,
+"info": {
+"type": "KanaVocabulary",
+"characters": "がくがく",
+"meanings": [
+"trembling", "loose"
+],
+"meaning_wl":["rattling", "shaking", "chattering"],
+"meaning_expl": "① Describes something that was fixed in place but comes loose and begins moving, such as a loose tooth.<br>② Describes part of the body trembling.",
+"readings": [
+"がくがく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"あまりの寒さで私の歯はがくがく鳴った"
+],
+"ctx_en": [
+"My teeth were chattering with the cold."
+]
+}
+},
+{
+"id": 21,
+"info": {
+"type": "KanaVocabulary",
+"characters": "かちかち",
+"meanings": [
+"rock hard", "rigid"
+],
+"meaning_wl":["solid", "stiff", "strait-laced"],
+"meaning_expl": "① Describes the sound made when solid objects hit each other.<br>② Describes something very hard.<br>③ Describes someone's strait-laced views. <br>④ Describes a person who is stiff with nervous tension. Rigid.<br><br>福 、名カチカチ叩く 形カチカチになる",
+"readings": [
+"かちかち"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"道路はかちかちに凍っていた"
+],
+"ctx_en": [
+"The road was frozen rock hard."
+]
+}
+},
+{
+"id": 22,
+"info": {
+"type": "KanaVocabulary",
+"characters": "がつがつ",
+"meanings": [
+"greedily", "craving"
+],
+"meaning_expl": "① Describes someone eating greedily.<br>② Describes someone who hungers after something. Craving.",
+"readings": [
+"がつがつ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"少年たちは昼食をがつがつ食べた"
+],
+"ctx_en": [
+"The boys wolfed down their lunch."
+]
+}
+},
+{
+"id": 23,
+"info": {
+"type": "KanaVocabulary",
+"characters": "がぶがぶ",
+"meanings": [
+"gulping down", "guzzling"
+],
+"meaning_wl":["thirstily"],
+"meaning_expl": "Describes someone downing a large drink thirstily. Gulping down. Guzzling.",
+"readings": [
+"がぶがぶ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は夜通し酒をがぶがぶ飲んだ"
+],
+"ctx_en": [
+"He guzzled down alcohol all night."
+]
+}
+},
+{
+"id": 24,
+"info": {
+"type": "KanaVocabulary",
+"characters": "がみがみ",
+"meanings": [
+"nagging", "griping"
+],
+"meaning_expl": "Describes someone nagging or griping.",
+"readings": [
+"がみがみ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"父は就職するように一晩中私にがみがみ言った"
+],
+"ctx_en": [
+"My father nagged at me all night about getting a job."
+]
+}
+},
+{
+"id": 25,
+"info": {
+"type": "KanaVocabulary",
+"characters": "がやがや",
+"meanings": [
+"hubbub", "noisy"
+],
+"meaning_expl": "Describes a noisy situation, with many people speaking at the same time. Hubbub.",
+"readings": [
+"がやがや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子供たちの一団ががやがやと階段を登って行った"
+],
+"ctx_en": [
+"The group of children went up the stairs yammering noisily."
+]
+}
+},
+{
+"id": 26,
+"info": {
+"type": "KanaVocabulary",
+"characters": "かんかん",
+"meanings": [
+"furious", "blazing", "clanging"
+],
+"meaning_wl":["burning", "very angry"],
+"meaning_expl": "① Describes someone who is very angry. In a rage.<br>② Describes the burning sun or burning coal.③ Describes the clanging sound made when metal or other hard objects hit each other.",
+"readings": [
+"かんかん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はその言葉にかんかんになった"
+],
+"ctx_en": [
+"He was furious about the words."
+]
+}
+},
+{
+"id": 27,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぎすぎす",
+"meanings": [
+"strained", "bony"
+],
+"meaning_wl":["tense", "thin"],
+"meaning_expl": "① Describes a relationship or an atmosphere that lacks friendliness. Strained.<br>② Describes someone who is thin and bony.",
+"readings": [
+"ぎすぎす"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"パリの夏はお上りさんでにぎわう"
+],
+"ctx_en": [
+"In summer, Paris is filled with tourists."
+]
+}
+},
+{
+"id": 28,
+"info": {
+"type": "KanaVocabulary",
+"characters": "きびきび",
+"meanings": [
+"prompt", "businesslike", "alert"
+],
+"meaning_expl": "Describes attitude, behavior, or speech that is prompt, businesslike, and alert.",
+"readings": [
+"きびきび"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は質問にきびきび答えた"
+],
+"ctx_en": [
+"She answered the questions energetically"
+]
+}
+},
+{
+"id": 29,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぎゅうぎゅう",
+"meanings": [
+"creaking", "packed", "brought to one's knees"
+],
+"meaning_wl":["crinkling", "squeezed", "reproached", "stuffed"],
+"meaning_expl": "① Describes the sound of crinkling leather or a creaking door.<br>② Describes pushing, packing, or closing something as strongly or tightly as possible.<br>③ Describes bringing someone to their knees by severely reproaching or drilling them.",
+"readings": [
+"ぎゅうぎゅう"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"列車はぎゅうぎゅう詰めだった"
+],
+"ctx_en": [
+"The train was stuffed full."
+]
+}
+},
+{
+"id": 30,
+"info": {
+"type": "KanaVocabulary",
+"characters": "きょろきょろ",
+"meanings": [
+"looking around", "staring about"
+],
+"meaning_wl":["glancing around", "gazing around"],
+"meaning_expl": "Describes someone looking around restlessly. Staring about.",
+"readings": [
+"きょろきょろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"いかにもお上りさんらしい人たちがきょろきょろ街を見ていた"
+],
+"ctx_en": [
+"Tourists who looked to be from the countryside were staring around at the street."
+]
+}
+},
+{
+"id": 31,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぎらぎら",
+"meanings": [
+"dazzle", "glare"
+],
+"meaning_wl":["glitter", "shine brightly"],
+"meaning_expl": "① Describes something shining brightly. Dazzlingly. Also used to describe a person's appearance or look. ② Glaring (sun)<br>③ Glaring (at someone)",
+"readings": [
+"ぎらぎら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はぎらぎらする目で相手を見た"
+],
+"ctx_en": [
+"He looked at his opponent with glaring eyes."
+]
+}
+},
+{
+"id": 32,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぐいぐい",
+"meanings": [
+"forcefully", "continuously"
+],
+"meaning_wl":["pulling along", "gulping down"],
+"meaning_expl": "Describes doing something forcefully and continuously, such as gulping down a drink or pulling someone by the hand.",
+"readings": [
+"ぐいぐい"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はビールを大ジョッキでぐいぐい飲んだ"
+],
+"ctx_en": [
+"He gulped down the beer from a big mug."
+]
+}
+},
+{
+"id": 33,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くさくさ",
+"meanings": [
+"depressed", "feeling blue"
+],
+"meaning_expl": "Describes someone who is feeling depressed because something unpleasant has happened. Feeling blue.<br><br>Originates from: 腐る",
+"readings": [
+"くさくさ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"気分がくさくさするような天気"
+],
+"ctx_en": [
+"The depressing weather."
+]
+}
+},
+{
+"id": 34,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぐずぐず",
+"meanings": [
+"sluggish", "uncertain", "grumbling", "loose"
+],
+"meaning_wl":["shapeless", "dawdling", "dilly-dallying", "complaining"],
+"meaning_expl": "① Describes sluggish, dilly dallying behavior.<br>② Describes something that is uncertain, such as the weather.<br>③ Describes someone who is grumbling or complaining.<br>④ Describes something that has lost its shape.⑤ Describes something that is loose.<br><br>Originates from: ぐずだ",
+"readings": [
+"ぐずぐず"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ぐずぐずしないで。学校に遅れるわよ。"
+],
+"ctx_en": [
+"Quit dawdling or you will be late for school!"
+]
+}
+},
+{
+"id": 35,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くたくた",
+"meanings": [
+"withered", "exhausted"
+],
+"meaning_wl":["tired", "worn-out"],
+"meaning_expl": "① Describes something that is withered.<br>② Describes someone who is very tired. Worn-out. Exhausted.<br><br>",
+"readings": [
+"くたくた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"1日中歩き回って私はくたくただ"
+],
+"ctx_en": [
+"I walked around all day so I am exhausted."
+]
+}
+},
+{
+"id": 36,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぐちゃぐちゃ",
+"meanings": [
+"soggy", "mash", "higgledy-piggledy", "grumbling"
+],
+"meaning_wl":["messy", "mushy", "soft", "stirring"],
+"meaning_expl": "① Describes something soft and soggy.<br>② Describes the action of stirring or mashing such a substance.<br>③ Describes something in awful disarray. Higgledy-piggledy.<br>④ Describes grumbling.",
+"readings": [
+"ぐちゃぐちゃ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"礼子はソースを作るためにトマトをぐちゃぐちゃにつぶした"
+],
+"ctx_en": [
+"Reiko crushed the tomatoes to make the sauce."
+]
+}
+},
+{
+"id": 37,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くどくど",
+"meanings": [
+"repeating"
+],
+"meaning_wl":["talk on and on", "tediously"],
+"meaning_expl": "Describes saying the same thing over and over again. Tediously.<br><br>Originates from: くどい",
+"readings": [
+"くどくど"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は夫の欠点をくどくどと長く話した"
+],
+"ctx_en": [
+"She talked on and on about her husband's faults."
+]
+}
+},
+{
+"id": 38,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くねくね",
+"meanings": [
+"meandering", "wriggling"
+],
+"meaning_wl":["twisting", "winding"],
+"meaning_expl": "① Describes something that curves gently several times. Meandering.<br>② Describes someone wriggling his or her body.<br><br>Originates from: くねる",
+"readings": [
+"くねくね"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"踊り子たちは音楽に合わせて体をくねくねさせた"
+],
+"ctx_en": [
+"The dancers twisted their bodies to the music."
+]
+}
+},
+{
+"id": 39,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くよくよ",
+"meanings": [
+"moping", "brooding"
+],
+"meaning_expl": "Describes worrying for ages about a trivial matter. Moping. Brooding.",
+"readings": [
+"くよくよ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"過ぎた事をくよくよしてもしようがない"
+],
+"ctx_en": [
+"There's no use crying over spilled milk."
+]
+}
+},
+{
+"id": 40,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くらくら",
+"meanings": [
+"dizzy", "giddy"
+],
+"meaning_expl": "Describes having a dizzy spell. Feeling giddy.",
+"readings": [
+"くらくら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"強い酒を飲んで頭がくらくらした"
+],
+"ctx_en": [
+"The strong booze made me dizzy."
+]
+}
+},
+{
+"id": 41,
+"info": {
+"type": "KanaVocabulary",
+"characters": "くるくる",
+"meanings": [
+"spinning", "winding up", "quickly"
+],
+"meaning_wl":["twirling", "quick witted", "kaledoscopic"],
+"meaning_expl": "① Describes a small object spinning lightly.<br>② Describes quickly winding up a long object, such as string.<br>③ Describes someone who is quick at coming up with ideas.<br>④ Describes someone who moves quickly.<br>⑤ Describes a situation in which changes are kaleidoscopic.",
+"readings": [
+"くるくる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"予定をくるくる変える"
+],
+"ctx_en": [
+"The schedule [plan] changes constantly"
+]
+}
+},
+{
+"id": 42,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぐるぐる",
+"meanings": [
+"spinning", "winding", "rolling up"
+],
+"meaning_wl":["moving repeatedly", "spinning round and round"],
+"meaning_expl": "① Describes something spinning round and round.<br>② Describes winding something round and round or rolling something up.<br>③ Describes moving something again and again.",
+"readings": [
+"ぐるぐる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"地図をぐるぐる巻いた"
+],
+"ctx_en": [
+"He rolled up the map."
+]
+}
+},
+{
+"id": 43,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぐんぐん",
+"meanings": [
+"progressing rapidly", "growing rapidly"
+],
+"meaning_expl": "Describes something progressing or growing very rapidly.",
+"readings": [
+"ぐんぐん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"気温はぐんぐん上昇した"
+],
+"ctx_en": [
+"The temperature rose rapidly."
+]
+}
+},
+{
+"id": 44,
+"info": {
+"type": "KanaVocabulary",
+"characters": "けちけち",
+"meanings": [
+"stingy", "tightfisted"
+],
+"meaning_expl": "Describes someone who is stingy with money or other things. Tightfisted.<br><br>Originates from: けちだ",
+"readings": [
+"けちけち"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"金にけちけちするな"
+],
+"ctx_en": [
+"Don't be so stingy with the money."
+]
+}
+},
+{
+"id": 45,
+"info": {
+"type": "KanaVocabulary",
+"characters": "けばけば",
+"meanings": [
+"gaudy", "garish"
+],
+"meaning_expl": "Describes someone or something that is gaudy. Garish.<br><br>Originates from: けばけばしい",
+"readings": [
+"けばけば"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"その通りにはクリスマスのけばけばした飾り付けがしてあった"
+],
+"ctx_en": [
+"The street was decorated with gaudy Christmas ornaments."
+]
+}
+},
+{
+"id": 46,
+"info": {
+"type": "KanaVocabulary",
+"characters": "げらげら",
+"meanings": [
+"roaring with laughter", "guffawing loudly"
+],
+"meaning_wl":["laughing loudly", "laughing noisily"],
+"meaning_expl": "Describes laughing in a noisy, uncontrolled manner. Guffawing loudly.",
+"readings": [
+"げらげら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼の冗談にみんながげらげら笑った"
+],
+"ctx_en": [
+"His joke made everyjone roar with laughter."
+]
+}
+},
+{
+"id": 47,
+"info": {
+"type": "KanaVocabulary",
+"characters": "こそこそ",
+"meanings": [
+"sneaking", "stealthily"
+],
+"meaning_expl": "Describes stealthy movement to avoid being discovered by others. Like a thief in the night.",
+"readings": [
+"こそこそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"こそこそ部屋から出て行く"
+],
+"ctx_en": [
+"He sneaks out of the room."
+]
+}
+},
+{
+"id": 48,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ごそごそ",
+"meanings": [
+"jarring", "rummaging"
+],
+"meaning_wl":["rustling", "jarring sound"],
+"meaning_expl": "① Describes a jarring sound.<br>② Describes something that makes a jarring sound.<br>③ The sound of rummaging.",
+"readings": [
+"ごそごそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"机の中の書類をごそごそかき回した"
+],
+"ctx_en": [
+"He rustled through the papers in the desk."
+]
+}
+},
+{
+"id": 49,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ごちゃごちゃ",
+"meanings": [
+"messy", "jumbled"
+],
+"meaning_wl":["disorderly", "complaining"],
+"meaning_expl": "① Describes a jumble.<br>② Describes someone complaining about one thing and another.",
+"readings": [
+"ごちゃごちゃ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"台所はごちゃごちゃしていた"
+],
+"ctx_en": [
+"The kitchen was a mess."
+]
+}
+},
+{
+"id": 50,
+"info": {
+"type": "KanaVocabulary",
+"characters": "こつこつ",
+"meanings": [
+"tapping", "clicking", "unflaggingly"
+],
+"meaning_wl":["knocking", "grinding away"],
+"meaning_expl": "① Describes the sound of a hard object hitting something, such as shoes hitting the pavement or someone knocking at a door. Tapping. Clicking. Drumming.<br>② Describes someone grinding away at their job. Unflaggingly.",
+"readings": [
+"こつこつ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"日本ではこつこつ働く人は評価される"
+],
+"ctx_en": [
+"In Japan, people who work diligently are valued."
+]
+}
+},
+{
+"id": 51,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ころころ",
+"meanings": [
+"rolling", "clear sound", "fat and round", "changing frequently"
+],
+"meaning_wl":["rolling over", "pleasant sound", "high sound"],
+"meaning_expl": "① Describes something small and round rolling over.<br>② Describes a high, clear, pleasant sound, such as the ringing of a bell or a young girl's giggle.<br>③ Describes something fat and round.<br>④ Describes something, such as the topic of conversation, that changes frequently.",
+"readings": [
+"ころころ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼の意見はころころ変わる"
+],
+"ctx_en": [
+"His opinion changes frequently."
+]
+}
+},
+{
+"id": 52,
+"info": {
+"type": "KanaVocabulary",
+"characters": "こわごわ",
+"meanings": [
+"timidly", "nervously"
+],
+"meaning_wl":["fearfully", "with trepidation"],
+"meaning_expl": "Describes nervous, frightened behavior. With trepidation.<br><br>Originates from: こわい",
+"readings": [
+"こわごわ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子供は恐々彼と握手した"
+],
+"ctx_en": [
+"The child shook his hand timidly."
+]
+}
+},
+{
+"id": 53,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ごわごわ",
+"meanings": [
+"rough", "stiff"
+],
+"meaning_expl": "① Describes something that is rough.<br>② Describes something that has become stiff, such as paper or cloth.",
+"readings": [
+"ごわごわ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"その布はごわごわしている"
+],
+"ctx_en": [
+"This cloth feels rough."
+]
+}
+},
+{
+"id": 54,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ざあざあ",
+"meanings": [
+"rushing water", "static"
+],
+"meaning_wl":["pouring rain", "static sound"],
+"meaning_expl": "① Describes the sound of rushing water. Often used to describe the sound of pouring rain.<br>② Describes the sound of static on television or loudspeakers.",
+"readings": [
+"ざあざあ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"上から水がざあざあ流れ落ちてきた"
+],
+"ctx_en": [
+"Water poured down from above."
+]
+}
+},
+{
+"id": 55,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ざくざく",
+"meanings": [
+"chopping", "gravely", "mixing"
+],
+"meaning_wl":["cutting", "metal coins", "jewels", "cutting roughly", "walking over gravel"],
+"meaning_expl": "① Describes a large number of metal coins or jewels.<br>② Describes the sound of chopping vegetables or the like. AIso describes cutting something roughly.<br>③ Describes the sound of gravel or the like being mixed.<br>④ Describes the sound of walking over gravel or frost.",
+"readings": [
+"ざくざく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"箱の中には金貨がざくざくあった"
+],
+"ctx_en": [
+"There were a lot of gold coins in the box."
+]
+}
+},
+{
+"id": 56,
+"info": {
+"type": "KanaVocabulary",
+"characters": "さばさば",
+"meanings": [
+"relieved", "candid"
+],
+"meaning_expl": "① Describes the feeling of relief one has after settling an irritating or unpleasant matter. Getting a load off one's mind.<br>② Describes someone who is plain-spoken. Candid.<br><br>Originates from: さばく",
+"readings": [
+"さばさば"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は会社を辞めて実にさばさばした"
+],
+"ctx_en": [
+"He felt very relieved when he quit the company."
+]
+}
+},
+{
+"id": 57,
+"info": {
+"type": "KanaVocabulary",
+"characters": "さむざむ",
+"meanings": [
+"cold", "bleak", "desolate"
+],
+"meaning_wl":["wintry", "chilly"],
+"meaning_expl": "Describes a cold, bleak scene. Wintry. Desolate.<br><br>Originates from: 寒い",
+"readings": [
+"さむざむ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"さむざむとした部屋だった"
+],
+"ctx_en": [
+"It was a dreary (chilly) room."
+]
+}
+},
+{
+"id": 58,
+"info": {
+"type": "KanaVocabulary",
+"characters": "さめざめ",
+"meanings": [
+"cry bitterly", "cry sorrowfully"
+],
+"meaning_wl":["cry broken-heartedly", "crying"],
+"meaning_expl": "Describes someone crying bitterly. Broken-heartedly. Sorrowfully.<br><br> ",
+"readings": [
+"さめざめ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"さめざめと泣いた"
+],
+"ctx_en": [
+"He cried bitterly."
+]
+}
+},
+{
+"id": 59,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しくしく",
+"meanings": [
+"weeping", "dull pain"
+],
+"meaning_wl":["sobbing", "dull ache"],
+"meaning_expl": "① Describes someone weeping. Sobbing.<br>② Describes a dull pain. Often used to describe stomachache or toothache.",
+"readings": [
+"しくしく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"女の子は母親の顔を見るとしくしく泣くのをやめた"
+],
+"ctx_en": [
+"The child stopped weeping when she saw her mother's face."
+]
+}
+},
+{
+"id": 60,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しげしげ",
+"meanings": [
+"scrutinizing", "frequently visiting"
+],
+"meaning_expl": "① Describes taking a close look. Scrutinizing.<br>② Describes visiting a place frequently.",
+"readings": [
+"しげしげ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"そのレストランには有名な俳優がしげしげと足を運ぶ"
+],
+"ctx_en": [
+"Famous actors go to that restaurant all the time."
+]
+}
+},
+{
+"id": 61,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しずしず",
+"meanings": [
+"quietly", "gracefully"
+],
+"meaning_expl": "Describes someone acting or moving quietly. Gracefully.<br><br>Originates from: 静かだ",
+"readings": [
+"しずしず"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"葬列はしずしずと進む"
+],
+"ctx_en": [
+"The funeral procession went on quietly."
+]
+}
+},
+{
+"id": 62,
+"info": {
+"type": "KanaVocabulary",
+"characters": "じとじと",
+"meanings": [
+"sweaty", "muggy"
+],
+"meaning_wl":["sticky", "damp", "hot", "humid"],
+"meaning_expl": "Describes an unpleasantly hot and damp atmosphere. Sweaty.",
+"readings": [
+"じとじと"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"干してある洗濯物が雨でじとじとになった"
+],
+"ctx_en": [
+"The wash that had been hung on a line to dry got wet in the rain."
+]
+}
+},
+{
+"id": 63,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しぶしぶ",
+"meanings": [
+"reluctantly", "grudgingly"
+],
+"meaning_expl": "Describes doing something reluctantly or grudgingly.<br><br>Originates from: 渋る",
+"readings": [
+"しぶしぶ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は依頼をしぶしぶ承諾した"
+],
+"ctx_en": [
+"He reluctantly approved the request."
+]
+}
+},
+{
+"id": 64,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しみじみ",
+"meanings": [
+"feel deeply", "quietly"
+],
+"meaning_wl":["deeply", "calmly", "carefully"],
+"meaning_expl": "① Describes feeling something deeply.<br>② Describes doing something quietly. Calmly.<br><br>Originates from: しみる",
+"readings": [
+"しみじみ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はクラシック音楽をしみじみ聴くのが好きだ。"
+],
+"ctx_en": [
+"He likes listening carefully to classical music."
+]
+}
+},
+{
+"id": 65,
+"info": {
+"type": "KanaVocabulary",
+"characters": "しゃあしゃあ",
+"meanings": [
+"brazenfacedly", "shamelessly"
+],
+"meaning_expl": "Describes someone remaining unmoved despite having done something deserving reproach. Brazenfacedly. Shamelessly.<br><br> ",
+"readings": [
+"しゃあしゃあ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は浮気がばれてもしゃあしゃあしていた"
+],
+"ctx_en": [
+"She didn't care at all when her affair was revealed."
+]
+}
+},
+{
+"id": 66,
+"info": {
+"type": "KanaVocabulary",
+"characters": "じゃぶじゃぶ",
+"meanings": [
+"splashing water"
+],
+"meaning_expl": "① Describes the sound and action of splashing water.<br>② Describes someone using or splashing water vigorously.<br>",
+"readings": [
+"じゃぶじゃぶ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は小川をじゃぶじゃぶ歩いて渡った"
+],
+"ctx_en": [
+"He walked across the creek splashing water."
+]
+}
+},
+{
+"id": 67,
+"info": {
+"type": "KanaVocabulary",
+"characters": "じりじり",
+"meanings": [
+"fretting", "drawing closer", "scorching", "alarm bell"
+],
+"meaning_wl":["burning", "out of patience", "scorching sun", "bit by bit"],
+"meaning_expl": "① Describes someone running out of patience and fretting.<br>② Describes something that draws closer little by little.<br>③ Describes the scorching sun.<br>④ Describes something that has been burned.<br>⑤ Describes the sound of an alarm bell.",
+"readings": [
+"じりじり"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"物価がじりじりと上がり始めた"
+],
+"ctx_en": [
+"Prices have started to rise bit by bit."
+]
+}
+},
+{
+"id": 68,
+"info": {
+"type": "KanaVocabulary",
+"characters": "じろじろ",
+"meanings": [
+"staring rudely"
+],
+"meaning_expl": "Describes someone staring rudely.",
+"readings": [
+"じろじろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"人をじろじろ見るのは失礼です"
+],
+"ctx_en": [
+"Staring at people is rude."
+]
+}
+},
+{
+"id": 69,
+"info": {
+"type": "KanaVocabulary",
+"characters": "じわじわ",
+"meanings": [
+"advancing slowly", "oozing"
+],
+"meaning_expl": "Describes something advancing slowly but steadily.",
+"readings": [
+"じわじわ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"血が包帯からじわじわしみ出した"
+],
+"ctx_en": [
+"Blood oozed through the bandage."
+]
+}
+},
+{
+"id": 70,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すいすい",
+"meanings": [
+"gliding", "moving easily"
+],
+"meaning_wl":["smoothly", "swiftly"],
+"meaning_expl": "Describes moving smoothly and easily through something, such as someone swimming gracefully or a car moving swiftly along an empty street.",
+"readings": [
+"すいすい"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ヨットがすいすい走っていた"
+],
+"ctx_en": [
+"The yacht glided on."
+]
+}
+},
+{
+"id": 71,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ずかずか",
+"meanings": [
+"barging in", "boldly"
+],
+"meaning_expl": "Describes someone making an entrance boldly or rudely.",
+"readings": [
+"ずかずか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は私の部屋にノックもせずにずかずか入ってきた"
+],
+"ctx_en": [
+"He barged into the room without knocking."
+]
+}
+},
+{
+"id": 72,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ずきずき",
+"meanings": [
+"throbbing pain", "heartbreak"
+],
+"meaning_expl": "Describes a throbbing pain, including heartbreak.",
+"readings": [
+"ずきずき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"傷が痛くてずきずきした"
+],
+"ctx_en": [
+"The wound throbbed with pain."
+]
+}
+},
+{
+"id": 73,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すくすく",
+"meanings": [
+"growing healthily"
+],
+"meaning_expl": "Describes growing healthily and steadily.",
+"readings": [
+"すくすく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"稲がすくすく育っている"
+],
+"ctx_en": [
+"The rice is growing very well."
+]
+}
+},
+{
+"id": 74,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ずけずけ",
+"meanings": [
+"TODO"
+],
+"meaning_expl": "Describes speaking bluntly. Brusquely.",
+"readings": [
+"ずけずけ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"経営陣をずけずけ批判する人だ。"
+],
+"ctx_en": [
+"He is a person who will criticize management bluntly."
+]
+}
+},
+{
+"id": 75,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すごすご",
+"meanings": [
+"dejectedly"
+],
+"meaning_wl":["leaving in low spirits"],
+"meaning_expl": "Describes leaving a place in low spirits. Dejectedly.",
+"readings": [
+"すごすご"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"敗軍はすごすごと町に戻ってきた"
+],
+"ctx_en": [
+"The defeated army returned to town dejectedly."
+]
+}
+},
+{
+"id": 76,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ずたずた",
+"meanings": [
+"torn", "ragged", "broken heart"
+],
+"meaning_expl": "Describes something torn. Ragged. Also used to describe a deeply broken heart.",
+"readings": [
+"ずたずた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は彼女の拒絶の手紙をずたずたに破った"
+],
+"ctx_en": [
+"He tore her letter of refusal into small pieces."
+]
+}
+},
+{
+"id": 77,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すやすや",
+"meanings": [
+"peacefully", "calmly"
+],
+"meaning_wl":["sleeping soundly", "sleeping peacefully"],
+"meaning_expl": "① Describes sleeping peacefully or soundly.<br>② Describes something happening calmly or peacefully.",
+"readings": [
+"すやすや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"窓からは，すやすやした夜風が流れ込んだ<br>"
+],
+"ctx_en": [
+"The night breezed flowed in quietly from the window"
+]
+}
+},
+{
+"id": 78,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すらすら",
+"meanings": [
+"smoothly", "without a hitch"
+],
+"meaning_expl": "Describes something proceeding smoothly. Without a hitch. Often used to describe eloquent speech or writing.",
+"readings": [
+"すらすら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女はギリシャ語がすらすら読める"
+],
+"ctx_en": [
+"She can read Greek easily."
+]
+}
+},
+{
+"id": 79,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ずるずる",
+"meanings": [
+"dragging", "loose", "slurping food"
+],
+"meaning_expl": "① Describes the sound or act of dragging.<br>② Describes an undesirable situation that drags on inconclusively.<br>③ Describes something that is loose.<br>④ Describes the sound made by someone slurping food.",
+"readings": [
+"ずるずる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"会議はずるずると10時間も続いた。"
+],
+"ctx_en": [
+"The meeting dragged on for 10 hours."
+]
+}
+},
+{
+"id": 80,
+"info": {
+"type": "KanaVocabulary",
+"characters": "すれすれ",
+"meanings": [
+"extremely close", "on the verge of"
+],
+"meaning_expl": "① Describes being extremely close.<br>② Describes something that has almost reached or exceeded the limit. On the verge of.",
+"readings": [
+"すれすれ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"鳥が湖面すれすれに飛んでいるのを見た"
+],
+"ctx_en": [
+"He saw the birds skimming over the lake."
+]
+}
+},
+{
+"id": 81,
+"info": {
+"type": "KanaVocabulary",
+"characters": "せかせか",
+"meanings": [
+"hastily", "impetuously"
+],
+"meaning_expl": "① Describes someone who acts impetuously.<br>② Describes acting hastily.<br><br>Originates from: せかす",
+"readings": [
+"せかせか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"せかせかした生活をする"
+],
+"ctx_en": [
+"He leads a busy life."
+]
+}
+},
+{
+"id": 82,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぞくぞく",
+"meanings": [
+"chill", "shiver", "thrill"
+],
+"meaning_wl":["tense", "excited", "anticipation", "joy", "emotion"],
+"meaning_expl": "① Describes a feeling of chilliness.<br>② Describes someone who is so tense or excited that their body trembles or a chill runs down their spine. Expresses fear, anticipation, joy, or emotion.<br><br>※ A homonym of this word describes something continuing without interruption.",
+"readings": [
+"ぞくぞく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"少し熱っぽくて背中がぞくぞくします"
+],
+"ctx_en": [
+"I have a slight fever and feel a shiver running down my spine."
+]
+}
+},
+{
+"id": 83,
+"info": {
+"type": "KanaVocabulary",
+"characters": "そろそろ",
+"meanings": [
+"gradually", "soon"
+],
+"meaning_wl":["quietly", "slowly", "before long"],
+"meaning_expl": "① Describes doing something slowly and quietly.<br>② Describes a situation or time that is approaching. Before long.",
+"readings": [
+"そろそろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"丸木橋をそろそろと歩いて渡る。"
+],
+"ctx_en": [
+"He walked slowly across the log bridge."
+]
+}
+},
+{
+"id": 84,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぞろぞろ",
+"meanings": [
+"trailing", "in a line"
+],
+"meaning_expl": "① Describes a large number of people or things standing in line.<br>② Describes trailing a skirt or the like in a slovenly way.",
+"readings": [
+"ぞろぞろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"少女たちが長いスカートをぞろぞろ引きずって歩いてきた。"
+],
+"ctx_en": [
+"The girls came trailing their long skirts."
+]
+}
+},
+{
+"id": 85,
+"info": {
+"type": "KanaVocabulary",
+"characters": "そわそわ",
+"meanings": [
+"fidgeting", "nervously excited"
+],
+"meaning_expl": "Describes someone who is nervously excited about something.",
+"readings": [
+"そわそわ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は舞台に上がる前はいつも緊張のあまりそわそわする"
+],
+"ctx_en": [
+"He always fidgets before he goes on stage."
+]
+}
+},
+{
+"id": 86,
+"info": {
+"type": "KanaVocabulary",
+"characters": "たじたじ",
+"meanings": [
+"retreating", "overwhelmed"
+],
+"meaning_wl":["recoiling", "flinching", "cringing"],
+"meaning_expl": "Describes someone retreating, overwhelmed by the power of another. Recoiling. Flinching. Cringing.<br><br>Originates from: たじろぐ",
+"readings": [
+"たじたじ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"敗北のニュースに将軍はたじたじとなった"
+],
+"ctx_en": [
+"The general was staggered by the news of the defeat."
+]
+}
+},
+{
+"id": 87,
+"info": {
+"type": "KanaVocabulary",
+"characters": "だぶだぶ",
+"meanings": [
+"too big", "loose", "baggy"
+],
+"meaning_expl": "Describes clothing that is too big. Loose. Baggy.",
+"readings": [
+"だぶだぶ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"この上着は私にはだぶだぶだ"
+],
+"ctx_en": [
+"This jacket is too big for me."
+]
+}
+},
+{
+"id": 88,
+"info": {
+"type": "KanaVocabulary",
+"characters": "たらたら",
+"meanings": [
+"dripping", "endless complaining", "endless boasting"
+],
+"meaning_expl": "① Describes water or any other liquid that is dripping.<br>② Describes endless complaining.③ Describes someone who boasts endlessly.",
+"readings": [
+"たらたら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"血が彼の額を傷口からたらたら流れ落ちた。"
+],
+"ctx_en": [
+"Blood trickled down his forehead from the wound."
+]
+}
+},
+{
+"id": 89,
+"info": {
+"type": "KanaVocabulary",
+"characters": "だらだら",
+"meanings": [
+"streaming", "dragging on", "dillydallying", "gentle slope"
+],
+"meaning_expl": "① Describes water or any other liquid that is streaming.<br>② Describes something that goes on for a long time without conclusion.<br>③ Describes dilatory behavior. Dillydallying.<br>④ Describes a long, gentle slope.",
+"readings": [
+"だらだら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼の退屈な演説がだらだら２時間も続いた"
+],
+"ctx_en": [
+"His boring speech dragged on for no less than two hours."
+]
+}
+},
+{
+"id": 90,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ちくちく",
+"meanings": [
+"pricking", "stinging", "sharp pain"
+],
+"meaning_expl": "Describes a sharp object pricking something and also the pain felt from such a prick.",
+"readings": [
+"ちくちく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"この布はちくちくする。"
+],
+"ctx_en": [
+"This cloth feels prickly."
+]
+}
+},
+{
+"id": 91,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ちびちび",
+"meanings": [
+"doing little by little"
+],
+"meaning_wl":["sipping", "nibbling"],
+"meaning_expl": "Describes doing something little by little to make it last as long as possible. For example, sipping a drink.<br><br>Originates from: ちびる",
+"readings": [
+"ちびちび"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はブランデーをちびちびやるのが好きです"
+],
+"ctx_en": [
+"He likes sipping on brandy."
+]
+}
+},
+{
+"id": 92,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ちょこちょこ",
+"meanings": [
+"toddling", "restless", "easily"
+],
+"meaning_wl":["hobbling", "on the move", "done quickly"],
+"meaning_expl": "① Describes walking or running with short steps. Toddling. Hobbling.<br>② Describes someone who is restless and constantly on the move.<br>③ Describes getting something done easily without much time or effort.",
+"readings": [
+"ちょこちょこ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"小さい子供がちょこちょこ歩いてきた"
+],
+"ctx_en": [
+"A small child came toddling up to me."
+]
+}
+},
+{
+"id": 93,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ちらちら",
+"meanings": [
+"fluttering", "flickering", "glancing"
+],
+"meaning_wl":["drifting", "intermittently", "casting glances"],
+"meaning_expl": "① Describes something small and light drifting down. Fluttering.<br>② Describes a light that flickers or appears to flicker.<br>③ Describes something that is seen or heard intermittently.<br>④ Describes someone casting glances at something.",
+"readings": [
+"ちらちら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"桜の花びらが春風にちらちら舞っている"
+],
+"ctx_en": [
+"The petals of the cherry blossoms are fluttering in the spring breeze."
+]
+}
+},
+{
+"id": 94,
+"info": {
+"type": "KanaVocabulary",
+"characters": "つかつか",
+"meanings": [
+"heading straight for", "briskly", "marching"
+],
+"meaning_expl": "Describes heading straight for a destination without any hesitation. Walking briskly. Marching.",
+"readings": [
+"つかつか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"つかつかと歩み寄る"
+],
+"ctx_en": [
+"She walked straigt up to him."
+]
+}
+},
+{
+"id": 95,
+"info": {
+"type": "KanaVocabulary",
+"characters": "つやつや",
+"meanings": [
+"glossy", "glistening", "sheeny"
+],
+"meaning_wl":["shiny", "lustrous", "sleek"],
+"meaning_expl": "Describes a shining surface. Glossy. Glistening. Sheeny.<br><br>Originates from: つや",
+"readings": [
+"つやつや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"つやつやした肌の色[顔色]をしている"
+],
+"ctx_en": [
+"She has a glowing complexion."
+]
+}
+},
+{
+"id": 96,
+"info": {
+"type": "KanaVocabulary",
+"characters": "つるつる",
+"meanings": [
+"smooth", "slipping", "slurping noodles"
+],
+"meaning_wl":["polished"],
+"meaning_expl": "① Describes a smooth surface. Polished.<br>② Describes slipping on a smooth surface.<br>③ Describes the sound made by someone slurping noodles.",
+"readings": [
+"つるつる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"床はつるつるだから気をつけて"
+],
+"ctx_en": [
+"Be careful: the floor is slippery."
+]
+}
+},
+{
+"id": 97,
+"info": {
+"type": "KanaVocabulary",
+"characters": "つんつん",
+"meanings": [
+"aloof", "sullen", "pointed", "sharp smell"
+],
+"meaning_wl":["pointed and growing", "prim", "unsociable", "morose"],
+"meaning_expl": "① Describes someone being prim and unsociable. Aloof.<br>② Describes someone being sullen and morose.<br>③ Describes something pointed.<br>④ Describes something pointed that is growing.<br>⑤ Describes a sharp smell.",
+"readings": [
+"つんつん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"松の木や楢の木が、つんつんと光のそらに立っています。"
+],
+"ctx_en": [
+"Pine and oak trees stood in the light."
+]
+}
+},
+{
+"id": 98,
+"info": {
+"type": "KanaVocabulary",
+"characters": "てくてく",
+"meanings": [
+"walking steadily"
+],
+"meaning_wl":["plodding", "walking a long distance", "endlessly"],
+"meaning_expl": "Describes walking quite a distance at a steady pace.",
+"readings": [
+"てくてく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"果てしなく続く田舎道をてくてく歩き続ける"
+],
+"ctx_en": [
+"He plods along the endless country road."
+]
+}
+},
+{
+"id": 99,
+"info": {
+"type": "KanaVocabulary",
+"characters": "でれでれ",
+"meanings": [
+"lovestruck"
+],
+"meaning_expl": "Lovestruck.",
+"readings": [
+"でれでれ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"人前ででれでれするのはやめてちょうだい, いいわね"
+],
+"ctx_en": [
+"Don't show too much affection in public, right?"
+]
+}
+},
+{
+"id": 100,
+"info": {
+"type": "KanaVocabulary",
+"characters": "どきどき",
+"meanings": [
+"pounding heart", "palpitating"
+],
+"meaning_wl":["nervous", "excited", "beating quickly"],
+"meaning_expl": "Describes a pounding heart. Palpitating. Beating quickly.",
+"readings": [
+"どきどき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"舞台に上がるとどきどきしてしまってせりふを忘れそうになる"
+],
+"ctx_en": [
+"When I'm on stage, I get nervous and nearly forget my lines."
+]
+}
+},
+{
+"id": 101,
+"info": {
+"type": "KanaVocabulary",
+"characters": "とぼとぼ",
+"meanings": [
+"trudging"
+],
+"meaning_wl":["walking wearily"],
+"meaning_expl": "Describes walking wearily. Trudging.",
+"readings": [
+"とぼとぼ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子供たちはみな山道をとぼとぼと下りて行った"
+],
+"ctx_en": [
+"The children trudged down the mountain path."
+]
+}
+},
+{
+"id": 102,
+"info": {
+"type": "KanaVocabulary",
+"characters": "どろどろ",
+"meanings": [
+"muddy", "syrupy", "muddled"
+],
+"meaning_wl":["thick", "opaque", "sticky", "mixed emotions"],
+"meaning_expl": "① Describes something covered in mud.<br>② Describes a liquid that is opaque and sticky. Syrupy.<br>③ Describes mixed emotions. Muddled.",
+"readings": [
+"どろどろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"トマトをどろどろになるまで煮なさい"
+],
+"ctx_en": [
+"Boil the tomatoes until they get thick."
+]
+}
+},
+{
+"id": 103,
+"info": {
+"type": "KanaVocabulary",
+"characters": "とんとん",
+"meanings": [
+"tapping", "going well", "even"
+],
+"meaning_wl":["knocking", "equal gain and loss", "clip-clop"],
+"meaning_expl": "① Describes the sound of gentle knocking or of someone going up or down the stairs. Tapping. Clip-clop.<br>② Describes something going well.<br>③ Describes two things that are just about the same or even. Often used to describe equal gain and loss.",
+"readings": [
+"とんとん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"二人の選手の実力はとんとんだ"
+],
+"ctx_en": [
+"The two athletes are matched in their abilities."
+]
+}
+},
+{
+"id": 104,
+"info": {
+"type": "KanaVocabulary",
+"characters": "どんどん",
+"meanings": [
+"thumping", "proceeding steadily"
+],
+"meaning_wl":["beating", "stamping", "going ahead without hesitation"],
+"meaning_expl": "① Describes a continuous loud sound like the beating of a drum or someone stamping their feet on the floor.<br>② Describes something that proceeds steadily or someone going ahead with something without hesitation.",
+"readings": [
+"どんどん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"花火が夏の夜空にどんどん鳴り続けた"
+],
+"ctx_en": [
+"Fireworks kept thumping in the summer night sky."
+]
+}
+},
+{
+"id": 105,
+"info": {
+"type": "KanaVocabulary",
+"characters": "なあなあ",
+"meanings": [
+"compromise", "collusion"
+],
+"meaning_expl": "Describes carrying something out through collusion or compromlse.",
+"readings": [
+"なあなあ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"それら 2 党がなあなあでやったことだった."
+],
+"ctx_en": [
+"It was something the two (political) parties had done in a roundabout way."
+]
+}
+},
+{
+"id": 106,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ながなが",
+"meanings": [
+"drawn-out", "long"
+],
+"meaning_wl":["lengthy", "prolonged"],
+"meaning_expl": "① Describes something that is prolonged in time. Drawn-out. Lengthy. Often used to describe a speech that goes on longer than necessary.② Physically long<br><br>Originates from: 長い",
+"readings": [
+"ながなが"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は私たちに長々と身の上話をした"
+],
+"ctx_en": [
+"He went on and on about his past.<br>身の上  - one's personal affairs or history<br>身の上話 - discussing your circumstances"
+]
+}
+},
+{
+"id": 107,
+"info": {
+"type": "KanaVocabulary",
+"characters": "なよなよ",
+"meanings": [
+"weak", "delicate", "supple"
+],
+"meaning_expl": "Describes someone or something that is weak. Delicate. Supple.",
+"readings": [
+"なよなよ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"柳の枝がなよなよと風になびいていた"
+],
+"ctx_en": [
+"The branches of the willow were swaying in the breeze."
+]
+}
+},
+{
+"id": 108,
+"info": {
+"type": "KanaVocabulary",
+"characters": "にこにこ",
+"meanings": [
+"smile"
+],
+"meaning_wl":["smiling happily", "all smiles"],
+"meaning_expl": "Describes someone smiling happily. All smiles.",
+"readings": [
+"にこにこ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"「よくやったね」と彼女はにこにこして言った"
+],
+"ctx_en": [
+"She was beaming as she said, \"Well done\"."
+]
+}
+},
+{
+"id": 109,
+"info": {
+"type": "KanaVocabulary",
+"characters": "にやにや",
+"meanings": [
+"smiling faintly", "grinning"
+],
+"meaning_expl": "Describes smiling in a faint, meaningful manner. Grinning.",
+"readings": [
+"にやにや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は私が個人的な質問にとまどうのを見てにやにやした"
+],
+"ctx_en": [
+"He smirked (grinned) at my embarassment (confusion) about being at a loss when asked some personal questions."
+]
+}
+},
+{
+"id": 110,
+"info": {
+"type": "KanaVocabulary",
+"characters": "にょろにょろ",
+"meanings": [
+"slithering"
+],
+"meaning_expl": "Describes something long and thin, like a snake, moving along with a wriggling motion.",
+"readings": [
+"にょろにょろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"蛇はにょろにょろと草むらの中へ入っていった"
+],
+"ctx_en": [
+"The snake slithered into the grass."
+]
+}
+},
+{
+"id": 111,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぬくぬく",
+"meanings": [
+"snugly", "cosily", "carefree"
+],
+"meaning_wl":["warm and comfortable", "easy"],
+"meaning_expl": "① Describes having a feeling of warmth and comfort. Snugly. Cosily.<br>② Describes someone having an easy, carefree time.",
+"readings": [
+"ぬくぬく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"猫は暖炉のそばでぬくぬくと寝ていた"
+],
+"ctx_en": [
+"The cat was snug and warm lying by the fireplace."
+]
+}
+},
+{
+"id": 112,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぬるぬる",
+"meanings": [
+"slimy", "slippery"
+],
+"meaning_expl": "Describes something slimy and slippery.",
+"readings": [
+"ぬるぬる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ぬるぬるした魚をつかまえるのは難しい"
+],
+"ctx_en": [
+"It's not easy to grab a slimy fish."
+]
+}
+},
+{
+"id": 113,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ねちねち",
+"meanings": [
+"sticky", "persistent"
+],
+"meaning_wl":["gluey", "tenacious"],
+"meaning_expl": "① Describes something sticky. Gluey.<br>② Describes tenacious character, behavior, or speech. Persistent.",
+"readings": [
+"ねちねち"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"この樹脂は長い間ねちねちしている"
+],
+"ctx_en": [
+"This resin stays sticky for a long time."
+]
+}
+},
+{
+"id": 114,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ねばねば",
+"meanings": [
+"sticky", "clingy"
+],
+"meaning_expl": "Describes something that is sticky and clings easily.<br><br>Originates from: 粘る",
+"readings": [
+"ねばねば"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ハチミツでねばねばする"
+],
+"ctx_en": [
+"It's sticky with honey."
+]
+}
+},
+{
+"id": 115,
+"info": {
+"type": "KanaVocabulary",
+"characters": "のこのこ",
+"meanings": [
+"shamelessly", "casually", "unknowingly"
+],
+"meaning_expl": "Describes someone appearing at a place quite nonchalantly, when he or she should really feel ashamed. Shamelessly. Casually. Unknowingly.",
+"readings": [
+"のこのこ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は招待もされていないのにパーティーにのこのこやって来た"
+],
+"ctx_en": [
+"Although he wasn't invited, he shamelessly came to the party."
+]
+}
+},
+{
+"id": 116,
+"info": {
+"type": "KanaVocabulary",
+"characters": "のそのそ",
+"meanings": [
+"lumbering"
+],
+"meaning_expl": "Describes moving slowly or clumsily. Often used to describe the movement of large people and animals. Lumbering.",
+"readings": [
+"のそのそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"一匹の熊がのそのそ川に向かうのを見た"
+],
+"ctx_en": [
+"I saw a bear lumber towards the river."
+]
+}
+},
+{
+"id": 117,
+"info": {
+"type": "KanaVocabulary",
+"characters": "のびのび",
+"meanings": [
+"relaxed", "carefree"
+],
+"meaning_expl": "① Describes doing something in an easy and relaxed manner.<br>② Describes someone relaxing without any interruptions or worries. Expansive.<br><br>※ A homonym of this word describes something postponed many times. Put off again and again.<br><br>Originates from: 伸びる",
+"readings": [
+"のびのび"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"夫が家にいないとのびのびとした気持ちになる"
+],
+"ctx_en": [
+"I feel relaxed when my husband isn't here."
+]
+}
+},
+{
+"id": 118,
+"info": {
+"type": "KanaVocabulary",
+"characters": "のろのろ",
+"meanings": [
+"sluggish"
+],
+"meaning_expl": "Describes moving slowly. Sluggishly.<br><br>Originates from: 鈍[のろ]い",
+"readings": [
+"のろのろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"部長は部下がのろのろ働くのをいやがった"
+],
+"ctx_en": [
+"The boss hated to see his men working at a crawl."
+]
+}
+},
+{
+"id": 119,
+"info": {
+"type": "KanaVocabulary",
+"characters": "はきはき",
+"meanings": [
+"clearly", "lucidly", "alacrity"
+],
+"meaning_expl": "① Describes speaking clearly or lucidly.<br>② Describes behaving with alacrity.",
+"readings": [
+"はきはき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"先生が生徒にはきはき返答するように注意した"
+],
+"ctx_en": [
+"The teacher told his students to answer clearly."
+]
+}
+},
+{
+"id": 120,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぱくぱく",
+"meanings": [
+"munching", "flapping"
+],
+"meaning_expl": "① Describes someone opening and closing their mouth many times. <br>② Describes someone eating heartily or a flap that keeps opening and closing.",
+"readings": [
+"ぱくぱく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"犬がぱくぱくえさを食べた"
+],
+"ctx_en": [
+"The dog munched on its food."
+]
+}
+},
+{
+"id": 121,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ばたばた",
+"meanings": [
+"fluttering", "in succession", "in a rush"
+],
+"meaning_expl": "① Describes the sound of a flag or banner flapping in the wind. Fluttering. Also describes making a sound by shaking such objects.<br>② Describes objects falling down in succession.<br>③ Describes things taking place in rapid succession.<br>④ Describes someone in a rush.",
+"readings": [
+"ばたばた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"タカが誇らしげに羽をばたばたさせた"
+],
+"ctx_en": [
+"The hawk proudly flapped its wings."
+]
+}
+},
+{
+"id": 122,
+"info": {
+"type": "KanaVocabulary",
+"characters": "はらはら",
+"meanings": [
+"apprehensive", "falling gently"
+],
+"meaning_wl":["nervous", "trickling down"],
+"meaning_expl": "① Describes being anxious about how things are going to turn out. Apprehensive.<br>② Describes petals or tears falling gently. Trickling down.",
+"readings": [
+"はらはら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"母親は赤ん坊がよちよち歩くのをはらはらして見ていた"
+],
+"ctx_en": [
+"The mother nervously watched her child toddle along."
+]
+}
+},
+{
+"id": 123,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぱらぱら",
+"meanings": [
+"scattered", "disjointed"
+],
+"meaning_expl": "① Describes the sound of hailstones or acorns falling to the ground.<br>② Describes things scattered about or something that constituted a whole but has broken up. In bits and pieces.<br>③ Describes something that lacks unity. Disjointed. In disorder.",
+"readings": [
+"ぱらぱら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼がおじぎをするとぱらぱら弱々しい拍手が起こった"
+],
+"ctx_en": [
+"When he took his bows, there was scattered applause."
+]
+}
+},
+{
+"id": 124,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ばりばり",
+"meanings": [
+"tearing", "chewing", "energetic", "hard and stiff"
+],
+"meaning_wl":["crunching"],
+"meaning_expl": "① Describes the act or the sound of tearing, chewing, or crunching something.<br>② Describes an energetic action.<br>③ Describes something hard and stiff.",
+"readings": [
+"ばりばり"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ライオンがばりばり骨をかみ砕いた"
+],
+"ctx_en": [
+"The lion crunched the bones."
+]
+}
+},
+{
+"id": 125,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぴかぴか",
+"meanings": [
+"glittering", "brand-new"
+],
+"meaning_wl":["sparkling", "shining"],
+"meaning_expl": "① Describes something sparkling. Glittering. Shining.<br>② Describes something that is brand-new.<br><br> ",
+"readings": [
+"ぴかぴか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"星が空にぴかぴか輝いていた"
+],
+"ctx_en": [
+"The stars were twinkling brightly in the sky."
+]
+}
+},
+{
+"id": 126,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひくひく",
+"meanings": [
+"twitching"
+],
+"meaning_expl": "Describes light convulsions in part of the body. Twitching.",
+"readings": [
+"ひくひく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私は頰の筋肉がひくひくするのを感じた。"
+],
+"ctx_en": [
+"I felt a muscle in my cheek twitch."
+]
+}
+},
+{
+"id": 127,
+"info": {
+"type": "KanaVocabulary",
+"characters": "びくびく",
+"meanings": [
+"trembling", "scared"
+],
+"meaning_wl":["fearful", "nervous", "timid"],
+"meaning_expl": "① Describes part of the body shaking gently. Trembling.<br>② Describes someone who is afraid or nervous. Scared.",
+"readings": [
+"びくびく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女はびくびくしながらドアをノックした"
+],
+"ctx_en": [
+"She knocked timidly on the door."
+]
+}
+},
+{
+"id": 128,
+"info": {
+"type": "KanaVocabulary",
+"characters": "びしょびしょ",
+"meanings": [
+"soaking wet"
+],
+"meaning_wl":["sopping", "drenched", "wet through", "soaked"],
+"meaning_expl": "Describes someone or something that is sopping wet. Soaking. Wet through.",
+"readings": [
+"びしょびしょ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"シャツはびしょびしょだった"
+],
+"ctx_en": [
+"My shirt was sopping wet."
+]
+}
+},
+{
+"id": 129,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひそひそ",
+"meanings": [
+"whispering"
+],
+"meaning_expl": "Describes talking so that others cannot hear. Whispering. Speaking in a hushed voice.<br><br>Originates from: ひそかだ",
+"readings": [
+"ひそひそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼らはよく隅でひそひそ話をしている"
+],
+"ctx_en": [
+"They are whispering to each other in the corner."
+]
+}
+},
+{
+"id": 130,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひやひや",
+"meanings": [
+"terrified"
+],
+"meaning_expl": "Describes being very frightened because of danger of uncertainty. Scared half to death. Terrified.<br><br>Originates from: 冷やす",
+"readings": [
+"ひやひや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"綱渡りを見て観衆はひやひやした"
+],
+"ctx_en": [
+"The crowd shuddered at the tightrope walk"
+]
+}
+},
+{
+"id": 131,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひょろひょろ",
+"meanings": [
+"lanky", "shaky"
+],
+"meaning_wl":["tall and thin", "unsteady on one's feet", "swaying"],
+"meaning_expl": "① Describes someone or something long and frail. Lanky.<br>② Describes someone unsteady on their feet. Shaky. Swaying.",
+"readings": [
+"ひょろひょろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"倒れていた男がひょろひょろ立ち上がった"
+],
+"ctx_en": [
+"The man who had fallen staggered to his feet."
+]
+}
+},
+{
+"id": 132,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぴょんぴょん",
+"meanings": [
+"hopping", "skipping"
+],
+"meaning_expl": "Describes hopping or skipping agilely.",
+"readings": [
+"ぴょんぴょん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子ヤギはぴょんぴょんはねる習性がある"
+],
+"ctx_en": [
+"Baby goats tend to hop up and down."
+]
+}
+},
+{
+"id": 133,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひらひら",
+"meanings": [
+"fluttering", "swirling"
+],
+"meaning_expl": "Describes objects like paper, a handkerchief, or petals falling. Fluttering. Swirling. Also used to describe a butterfly flying.",
+"readings": [
+"ひらひら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"チョウがひらひら飛んでいる"
+],
+"ctx_en": [
+"The butterfly is flitting about."
+]
+}
+},
+{
+"id": 134,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ひりひり",
+"meanings": [
+"stinging", "burning"
+],
+"meaning_expl": "Describes stinging pain. Also used to describe a burning mouth after eating hot food.",
+"readings": [
+"ひりひり"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"海岸で日光浴をしたので皮膚がひりひりした"
+],
+"ctx_en": [
+"My skin stung from sunbathing on the beach."
+]
+}
+},
+{
+"id": 135,
+"info": {
+"type": "KanaVocabulary",
+"characters": "びりびり",
+"meanings": [
+"ripping", "vibrating", "shocked"
+],
+"meaning_expl": "① Describes the feeling one gets from an electric shock or the like.<br>② Describes the sound or act of tearing something up forcefully. Ripping.<br>③ Describes the sound of something vibrating, such as a glass window rattled by a strong wind.",
+"readings": [
+"びりびり"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は怒ってその手紙をびりびり破った"
+],
+"ctx_en": [
+"He tore up the letter in anger."
+]
+}
+},
+{
+"id": 136,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぶくぶく",
+"meanings": [
+"flabby", "bubbling", "gargling"
+],
+"meaning_wl":["fat", "bubbling up", "obese"],
+"meaning_expl": "① Describes something outrageously fat. Flabby. Obese.<br>② Describes the sound or act of bubbles or foam rising.<br>③ Describes something giving off bubbles while sinking.<br>④ Describes the sound of gargling.",
+"readings": [
+"ぶくぶく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"なべの中に泡がぶくぶく出てきた"
+],
+"ctx_en": [
+"Bubbles starting rising in the pot."
+]
+}
+},
+{
+"id": 137,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぶつぶつ",
+"meanings": [
+"muttering", "rash"
+],
+"meaning_wl":["grumbling", "mumbling", "piercing", "cutting into small pieces"],
+"meaning_expl": "① Describes muttering in a small voice.<br>② Describes complaining. Grumbling.③ Describes something with many small holes or lumps. Rash.<br>④ Describes continuously piercing or cutting something into small pieces.<br>",
+"readings": [
+"ぶつぶつ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私の母はいつも父の浪費癖にぶつぶつ言っている"
+],
+"ctx_en": [
+"My mother is always mumbling about my father's extravagances."
+]
+}
+},
+{
+"id": 138,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぶらぶら",
+"meanings": [
+"strolling", "dangling", "drifting through life"
+],
+"meaning_wl":["swaying", "loafing around"],
+"meaning_expl": "① Describes a rather heavy object that is dangling and swaying.<br>② Describes walking without any real purpose or walking slowly. Strolling.<br>③ Describes spending time without any proper job or schedule. Loafing around. Drifting through life.",
+"readings": [
+"ぶらぶら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私たちはウインドーショッピングをしながら銀座をぶらぶら歩いた"
+],
+"ctx_en": [
+"We strolled around Ginza window-shopping."
+]
+}
+},
+{
+"id": 139,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぶるぶる",
+"meanings": [
+"shaking", "trembling"
+],
+"meaning_expl": "① Describes something shaking or trembling.<br>②  Describes someone's body shaking from cold or fear. ",
+"readings": [
+"ぶるぶる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"犬は川から上がると体をぶるぶるっと振って水を落とした"
+],
+"ctx_en": [
+"The dog shook itself off vigorously when it came out of the river."
+]
+}
+},
+{
+"id": 140,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぷんぷん",
+"meanings": [
+"furious", "reek"
+],
+"meaning_wl":["smelling strongly", "stinking", "very angry"],
+"meaning_expl": "① Describes someone who is very angry.<br>② Describes a strong smell hanging over a place.",
+"readings": [
+"ぷんぷん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼の息は酒のにおいがぷんぷんした"
+],
+"ctx_en": [
+"His breath reeked of alcohol."
+]
+}
+},
+{
+"id": 141,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぺこぺこ",
+"meanings": [
+"hungry", "bowing humbly", "twanging"
+],
+"meaning_wl":["ravenous", "famished"],
+"meaning_expl": "① Describes the sound or act of a thin sheet of metal or plastic being bent back and forth. Twanging.<br>② Describes bowing humbly many times and assuming a servile attitude.<br>③ Describes being very hungry. Famished. Ravenous.<br><br> ",
+"readings": [
+"ぺこぺこ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私はお腹がぺこぺこだ"
+],
+"ctx_en": [
+"I'm very hungry."
+]
+}
+},
+{
+"id": 142,
+"info": {
+"type": "KanaVocabulary",
+"characters": "べたべた",
+"meanings": [
+"sticky", "clingy"
+],
+"meaning_expl": "① Describes something sticky or clingy.<br>② Describes one person clinging to another. Often used to describe a man and woman who stick closely together.③ Describes covering a surface with paint, pieces of paper, or signatures.",
+"readings": [
+"べたべた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私の指はキャラメルでべたべたしていた"
+],
+"ctx_en": [
+"My fingers were sticky with caramel."
+]
+}
+},
+{
+"id": 143,
+"info": {
+"type": "KanaVocabulary",
+"characters": "へとへと",
+"meanings": [
+"exhausted"
+],
+"meaning_expl": "Describes being so tired that one has no strength left. Exhausted. Pooped out.",
+"readings": [
+"へとへと"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"歩き回ってへとへとになった"
+],
+"ctx_en": [
+"He walked and walked until he was exhausted."
+]
+}
+},
+{
+"id": 144,
+"info": {
+"type": "KanaVocabulary",
+"characters": "へなへな",
+"meanings": [
+"curving", "collapsing"
+],
+"meaning_wl":["weak", "buckling under", "ready to drop"],
+"meaning_expl": "① Describes curving or bending.<br>② Describes someone becoming weak through loss of mental or physical strength. Buckling under. Ready to drop.",
+"readings": [
+"へなへな"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"へなへなと崩れた"
+],
+"ctx_en": [
+"He collapsed weakly."
+]
+}
+},
+{
+"id": 145,
+"info": {
+"type": "KanaVocabulary",
+"characters": "へらへら",
+"meanings": [
+"frivolous", "laughing"
+],
+"meaning_expl": "Describes laughing frivolously or ambiguously. Also used to describe frivolous speech and behavior.",
+"readings": [
+"へらへら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"へらへら笑う場合ではない。"
+],
+"ctx_en": [
+"This is not the time to be laughing."
+]
+}
+},
+{
+"id": 146,
+"info": {
+"type": "KanaVocabulary",
+"characters": "べらべら",
+"meanings": [
+"chattering", "blabbering"
+],
+"meaning_wl":["gossiping", "talking endlessly"],
+"meaning_expl": "Describes speaking endlessly. Wagging one's tongue. Especially used to describe someone who goes so far as to say something they should not.",
+"readings": [
+"べらべら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"トミーはよくべらべらしゃべる"
+],
+"ctx_en": [
+"Tommy is very talkative."
+]
+}
+},
+{
+"id": 147,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぺらぺら",
+"meanings": [
+"fluent", "leafing through", "chattering"
+],
+"meaning_wl":["glib", "thumbing through", "cheap-looking"],
+"meaning_expl": "① Describes chattering away frivolously. Glibly.<br>② Describes speaking fluently in a foreign language.<br>③ Describes leafing through a book. Thumbing through.<br>④ Describes cloth or wooden boards that are thin and cheap-looking.",
+"readings": [
+"ぺらぺら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は2時間もぺらぺらしゃべっていた"
+],
+"ctx_en": [
+"She's been chattering for two solid hours."
+]
+}
+},
+{
+"id": 148,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぺろぺろ",
+"meanings": [
+"licking"
+],
+"meaning_expl": "Describes putting the tongue out and moving it around. Licking.",
+"readings": [
+"ぺろぺろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"犬が私の顔をぺろぺろなめた"
+],
+"ctx_en": [
+"The dog licked my face."
+]
+}
+},
+{
+"id": 149,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ほかほか",
+"meanings": [
+"warm", "steaming hot"
+],
+"meaning_expl": "Describes something warm, especially warm, delicious-looking food. Steaming hot.",
+"readings": [
+"ほかほか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"羽ぶとんはほかほかしてよく眠れた"
+],
+"ctx_en": [
+"The down comforter was nice and warm so I slept well."
+]
+}
+},
+{
+"id": 150,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぽかぽか",
+"meanings": [
+"warm", "thumping"
+],
+"meaning_expl": "① Describes a feeling of warmth throughout one's body.<br>② Describes the sound or act of beating someone. Thumping.",
+"readings": [
+"ぽかぽか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"この半島ではほとんど一年を通じてぽかぽかした陽気です"
+],
+"ctx_en": [
+"On this peninsula, the weather is almost always warm and sunny throughout the year."
+]
+}
+},
+{
+"id": 151,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぼさぼさ",
+"meanings": [
+"ruffled", "unkempt", "ragged"
+],
+"meaning_wl":["disheveled", "messy", "tousled"],
+"meaning_expl": "① Describes unkempt, ruffled hair.<br>② Describes the ragged tip of a broom or paintbrush.",
+"readings": [
+"ぼさぼさ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼はいつもぼさぼさの髪をしている"
+],
+"ctx_en": [
+"He always has messy hair."
+]
+}
+},
+{
+"id": 152,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぽたぽた",
+"meanings": [
+"dripping"
+],
+"meaning_expl": "Describes dripping water.",
+"readings": [
+"ぽたぽた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"汗が彼の額からぽたぽた落ちていた"
+],
+"ctx_en": [
+"Sweat was dripping off his forehead."
+]
+}
+},
+{
+"id": 153,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ほやほや",
+"meanings": [
+"new", "fresh", "brand-new"
+],
+"meaning_expl": "Describes something new or fresh, such as a newly wed couple or a new employee.",
+"readings": [
+"ほやほや"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"このクッキーはできたてのほやほやです"
+],
+"ctx_en": [
+"These cookies are fresh from the oven.<br>出来立て - fresh, hot, brand new"
+]
+}
+},
+{
+"id": 154,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ぼろぼろ",
+"meanings": [
+"tattered", "worn-out", "crumbling"
+],
+"meaning_wl":["ragged", "shabby", "falling apart"],
+"meaning_expl": "① Describes something badly damaged. <br>② Describes being mentally and physically worn-out.<br>③ Describes falling grains.<br>④ Describes something that has lost its cohesion and crumbled.<br>⑤ Describes wrongdoings or lies that are uncovered one after another.",
+"readings": [
+"ぼろぼろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"私のコートは何年も着てぼろぼろになった"
+],
+"ctx_en": [
+"My coat became threadbare from years of use."
+]
+}
+},
+{
+"id": 155,
+"info": {
+"type": "KanaVocabulary",
+"characters": "まじまじ",
+"meanings": [
+"staring"
+],
+"meaning_expl": "Describes taking a long, hard look at something. Staring.",
+"readings": [
+"まじまじ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"息子の寝顔をまじまじと見つめた。"
+],
+"ctx_en": [
+"I stared at my son's sleeping face."
+]
+}
+},
+{
+"id": 156,
+"info": {
+"type": "KanaVocabulary",
+"characters": "まだまだ",
+"meanings": [
+"more to come", "long way to go"
+],
+"meaning_expl": "① Describes still having some way to go before reaching the goal. Short of the mark. <br>② Describes more of something to come, such as more reasons or more food.<br><br>Originates from: まだ",
+"readings": [
+"まだまだ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"確かに彼は腕を上げたが, 作品の出来栄えはまだまだだ"
+],
+"ctx_en": [
+"He certainly has improved his skills, but his performance still has a ways to go.<br>出来栄え - workmanship, performance"
+]
+}
+},
+{
+"id": 157,
+"info": {
+"type": "KanaVocabulary",
+"characters": "まちまち",
+"meanings": [
+"diverse", "varied"
+],
+"meaning_expl": "Describes things that are different. Diverse. Often used to describe things that could easily be the same but actually differ from one another. Varied.<br><br> ",
+"readings": [
+"まちまち"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"箱の大きさは小さいのから大きいのまでまちまちだ"
+],
+"ctx_en": [
+"The boxes vary in size from small to large."
+]
+}
+},
+{
+"id": 158,
+"info": {
+"type": "KanaVocabulary",
+"characters": "みえみえ",
+"meanings": [
+"seeing through someone"
+],
+"meaning_wl":["seeing through someone's scheme", "seeing through someone's lies", "not fooled"],
+"meaning_expl": "Describes seeing through another person's scheme, especially lies or flattery.<br><br>Originates from: 見える",
+"readings": [
+"みえみえ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"お前の魂胆みえみえなんだよ"
+],
+"ctx_en": [
+"Your real (ulterior) motive is obvious."
+]
+}
+},
+{
+"id": 159,
+"info": {
+"type": "KanaVocabulary",
+"characters": "むかむか",
+"meanings": [
+"nauseous", "angry"
+],
+"meaning_wl":["queasy", "sick", "furious"],
+"meaning_expl": "① Describes feeling sick. Queasy.<br>② Describes a surge of anger.",
+"readings": [
+"むかむか"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"食べすぎて、胃がムカムカする。"
+],
+"ctx_en": [
+"I ate too much, so I feel sick now."
+]
+}
+},
+{
+"id": 160,
+"info": {
+"type": "KanaVocabulary",
+"characters": "むしむし",
+"meanings": [
+"muggy"
+],
+"meaning_wl":["humid", "sticky", "hot"],
+"meaning_expl": "Describes hot, humid weather. Muggy.<br><br>Originates from: 蒸す",
+"readings": [
+"むしむし"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"日本の夏はムシムシしてて嫌いだ。"
+],
+"ctx_en": [
+"I don't like summers in Japan because they too humid."
+]
+}
+},
+{
+"id": 161,
+"info": {
+"type": "KanaVocabulary",
+"characters": "むずむず",
+"meanings": [
+"itchy", "impatient"
+],
+"meaning_wl":["ticklish", "restless"],
+"meaning_expl": "① Describes an itchy feeling. Ticklish.<br>② Describes being impatient at not being able to do something one wants to do.",
+"readings": [
+"むずむず"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"鼻が少しむずむずする"
+],
+"ctx_en": [
+"My nose feels a bit ticklish."
+]
+}
+},
+{
+"id": 162,
+"info": {
+"type": "KanaVocabulary",
+"characters": "むにゃむにゃ",
+"meanings": [
+"mumbling"
+],
+"meaning_expl": "Describes muttering something meaningless. Often used to describe sleep talking.<br><br> ",
+"readings": [
+"むにゃむにゃ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"浩一は1人のときよく何かむにゃむにゃ言っている"
+],
+"ctx_en": [
+"Koichi often mumbles when he is left alone."
+]
+}
+},
+{
+"id": 163,
+"info": {
+"type": "KanaVocabulary",
+"characters": "むんむん",
+"meanings": [
+"stuffy", "amorous"
+],
+"meaning_expl": "① Describes a stuffy or crowded atmosphere.<br>② Describes a woman's or group of women's amorousness.",
+"readings": [
+"むんむん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"その部屋は窓をみんな閉めてあったのでむんむんしていた"
+],
+"ctx_en": [
+"The room was stuffy with all the windows closed."
+]
+}
+},
+{
+"id": 164,
+"info": {
+"type": "KanaVocabulary",
+"characters": "めきめき",
+"meanings": [
+"progressing", "growing"
+],
+"meaning_expl": "Describes progressing or growing rapidly and visibly. Conspiciously.",
+"readings": [
+"めきめき"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"その若いピアニストは外国でめきめき腕を上げた"
+],
+"ctx_en": [
+"The young pianist made remarkable progress while abroad."
+]
+}
+},
+{
+"id": 165,
+"info": {
+"type": "KanaVocabulary",
+"characters": "めそめそ",
+"meanings": [
+"sobbing", "weeping"
+],
+"meaning_expl": "Describes uncontrolled weeping. Sobbing. Also describes an effeminate man crying endlessly.",
+"readings": [
+"めそめそ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"子供がめそめそ母親にしがみついた"
+],
+"ctx_en": [
+"The child clung onto his mother in tears."
+]
+}
+},
+{
+"id": 166,
+"info": {
+"type": "KanaVocabulary",
+"characters": "もじもじ",
+"meanings": [
+"hesitance", "bashfulness"
+],
+"meaning_expl": "Describes someone behaving nervously or bashfully and unable to do what they want to do. Hesitantly.",
+"readings": [
+"もじもじ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"その男の子は入るかどうか決めかねてもじもじしていた"
+],
+"ctx_en": [
+"The boy hesitated as he couldn't decide whether to come in or not."
+]
+}
+},
+{
+"id": 167,
+"info": {
+"type": "KanaVocabulary",
+"characters": "もたもた",
+"meanings": [
+"clumsy", "dawdling", "slow"
+],
+"meaning_wl":["dilly-dallying", "inefficient"],
+"meaning_expl": "① Describes behavior or actions that are slow and inefficient.② Clumsy.③ Dawdling.",
+"readings": [
+"もたもた"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"もたもたするな"
+],
+"ctx_en": [
+"Don't dilly-dally."
+]
+}
+},
+{
+"id": 168,
+"info": {
+"type": "KanaVocabulary",
+"characters": "もりもり",
+"meanings": [
+"swell", "bulge", "full of zest"
+],
+"meaning_wl":["full of gusto", "rise"],
+"meaning_expl": "① Describes something that rises powerfully. Swells.<br>② Describes someone full of zest or someone acting zestfully. Full of gusto.<br><br>Originates from: 盛る",
+"readings": [
+"もりもり"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"そのレスラーの筋肉はもりもりしている"
+],
+"ctx_en": [
+"The wrestler's muscles were bulging."
+]
+}
+},
+{
+"id": 169,
+"info": {
+"type": "Vocabulary",
+"characters": "悶々",
+"meanings": [
+"anguish", "worrying"
+],
+"meaning_expl": "Describes someone worrying about something for a long time but unable to find a solution. In anguish.<br><br> ※ Always followed by と.",
+"readings": [
+"もんもん"
+],
+"reading_expl": "This word just uses the on'yomi readings of <k>悶</k> which you should already know!",
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼は一夜を悶々と過ごした"
+],
+"ctx_en": [
+"He worried through a sleepless night."
+]
+}
+},
+{
+"id": 170,
+"info": {
+"type": "KanaVocabulary",
+"characters": "やすやす",
+"meanings": [
+"easily", "effortlessly"
+],
+"meaning_expl": "Describes doing something with ease. Without difficulty. Effortlessly.<br><br>Originates from: やすい",
+"readings": [
+"やすやす"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼がその問題をやすやすと解いたのに驚いた。"
+],
+"ctx_en": [
+"I was surprised at how easily he solved the problem."
+]
+}
+},
+{
+"id": 171,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ゆうゆう",
+"meanings": [
+"calmly", "confidently"
+],
+"meaning_expl": "Describes behaving confidently. Calmly. With plenty of leeway.",
+"readings": [
+"ゆうゆう"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"電車にゆうゆう間に合った"
+],
+"ctx_en": [
+"I was well in time for the train."
+]
+}
+},
+{
+"id": 172,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ゆさゆさ",
+"meanings": [
+"swaying"
+],
+"meaning_expl": "Describes the swaying of something large and heavy, such as a tree.<br><br>Originates from: 揺さぶる",
+"readings": [
+"ゆさゆさ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"枝をゆさゆさしたら栗がばらばら落ちた"
+],
+"ctx_en": [
+"I shook the tree and lots of chestnuts fell to the ground."
+]
+}
+},
+{
+"id": 173,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ゆらゆら",
+"meanings": [
+"swaying", "rolling", "wobbling"
+],
+"meaning_wl":["swinging", "rocking", "shimmering"],
+"meaning_expl": "Describes slow swaying. Swinging. Rolling. Wobbling.",
+"readings": [
+"ゆらゆら"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"かげろうがゆらゆら立っていた"
+],
+"ctx_en": [
+"The heat haze was shimmering."
+]
+}
+},
+{
+"id": 174,
+"info": {
+"type": "KanaVocabulary",
+"characters": "ゆるゆる",
+"meanings": [
+"loose", "unhurried"
+],
+"meaning_expl": "① Describes something very loose.<br>② Describes slow movement.<br>③ Feeling relaxed or unhurried.<br><br>Originates from: ゆるい",
+"readings": [
+"ゆるゆる"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"ヒップが丁度いいとウェストがゆるゆるです"
+],
+"ctx_en": [
+"The hip size is just right but the waist is loose."
+]
+}
+},
+{
+"id": 175,
+"info": {
+"type": "KanaVocabulary",
+"characters": "よぼよぼ",
+"meanings": [
+"weak", "unsteady"
+],
+"meaning_expl": "Describes something weak and unsteady from old age.",
+"readings": [
+"よぼよぼ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"歳をとって、よぼよぼになるのが嫌なので、できるだけ普段から体を鍛えるようにしています。"
+],
+"ctx_en": [
+"I don't want to get older and become weak, so I work out as much as I can."
+]
+}
+},
+{
+"id": 176,
+"info": {
+"type": "KanaVocabulary",
+"characters": "よろよろ",
+"meanings": [
+"unstable", "tottering"
+],
+"meaning_expl": "Describes something unsteady on its feet and unstable. Tottering.",
+"readings": [
+"よろよろ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"酔っ払いがよろよろ歩いて行った"
+],
+"ctx_en": [
+"The drunk stumbled along."
+]
+}
+},
+{
+"id": 177,
+"info": {
+"type": "Vocabulary",
+"characters": "朗々",
+"meanings": [
+"recite", "sing loudly"
+],
+"meaning_expl": "Describes singing or reciting in a loud, clear voice.<br><br> ※ Always followed by と",
+"readings": [
+"ろうろう"
+],
+"reading_expl": "This word just uses the on'yomi readings of <k>朗</k> (WK level 43 as of 05/2024)",
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"朗々と詩を朗読する"
+],
+"ctx_en": [
+"He reads poems with a resonant voice."
+]
+}
+},
+{
+"id": 178,
+"info": {
+"type": "KanaVocabulary",
+"characters": "わいわい",
+"meanings": [
+"noisy", "boisterous"
+],
+"meaning_expl": "Describes a large number of people behaving boisterously and making a din.",
+"readings": [
+"わいわい"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"店に入るとすでに飲み会が始まっていてワイワイと騒がしかった。"
+],
+"ctx_en": [
+"When I entered the bar, the drinking party had already started and it was very noisy."
+]
+}
+},
+{
+"id": 179,
+"info": {
+"type": "KanaVocabulary",
+"characters": "わくわく",
+"meanings": [
+"thrilled"
+],
+"meaning_expl": "Describes someone who is bursting with excitement in anticipation of something. Thrilled.",
+"readings": [
+"わくわく"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"彼女は外国旅行のことを考えるととてもわくわくした"
+],
+"ctx_en": [
+"She was thrilled when she thought about her trip abroad."
+]
+}
+},
+{
+"id": 180,
+"info": {
+"type": "KanaVocabulary",
+"characters": "わざわざ",
+"meanings": [
+"on purpose", "specially"
+],
+"meaning_expl": "① Describes doing something on purpose, even though there is no need to.<br>② Describes doing something specially rather than incidentally.<br><br>Originates from: わざと",
+"readings": [
+"わざわざ"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"遠方のところわざわざおいでくださってありがとうございます"
+],
+"ctx_en": [
+"It was very kind of you to come such a long way to see me."
+]
+}
+},
+{
+"id": 181,
+"info": {
+"type": "KanaVocabulary",
+"characters": "わんわん",
+"meanings": [
+"bark", "doggy"
+],
+"meaning_wl":["woof"],
+"meaning_expl": "① Describes a dog's bark. Bowwow.<br>② A child's word for a dog.<br><br>* Incidentally, a cat mews <i>nyã nyã, </i>a cow moos <i>mo mo</i>, a pig oinks <i>bü bü, </i>a goat bleats <i>me me, </i>a crow caws <i>kã kã, </i>a sparrow tweets <i>chun chun, </i>and a frog croaks <i>kero kero.</i>",
+"readings": [
+"わんわん"
+],
+"category": "Vocabulary",
+"func": "onomatopoeia",
+"ctx_jp": [
+"わんわん泣く"
+],
+"ctx_en": [
+"He will cry his heart out."
+]
+}
+    }
+  ],
+"nextId": 182
+}
