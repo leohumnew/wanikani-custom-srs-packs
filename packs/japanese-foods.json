@@ -34,7 +34,17 @@
 "あんパン"
 ],
 "category": "Vocabulary",
-"func": "noun"
+"func": "noun",
+"kanji": [
+{
+"id": "https://jisho.org/search/%E9%A4%A1%20%23kanji",
+"pack": null,
+"type": "Kanji",
+"characters": "餡",
+"meanings": ["bean jam"],
+"readings": ["あん"]
+}
+]
 }
 },
 {
@@ -144,12 +154,14 @@
 "type": "Vocabulary",
 "characters": "大福",
 "meanings": [
-"Daifuku"
+"Daifuku",
+"filled mochi"
 ],
 "meaning_expl": "<re>Daifuku</re> are small round <i>mochi</i> stuffed with some type of sweet filling, most commonly <i>anko</i>.<br><i>Daifuku</i> comes in many varieties. The most common are white, pale green, or pale pink <i>mochi </i>filled with <i>anko</i>. Some versions contain whole pieces of fruit, mixtures of fruit and <i>anko</i>, or crushed melon paste. Some are covered with confectioner's sugar or cocoa powder.<br><br>Originates from: Daifuku",
 "readings": [
 "だいふく"
 ],
+"reading_expl": "What will your mochi have inside...? It's a <re>big</re> game of <re>luck</re>, who knows what might be there!",
 "kanji":[{"id":453,"pack":-1,"type":"Kanji","characters":"大","meanings":["Big", "Large"],"readings":["たい", "だい"]}, {"id":867,"pack":-1,"type":"Kanji","characters":"福","meanings":["Luck", "Fortune"],"readings":["ふく"]}],
 "category": "Vocabulary",
 "func": "noun"
@@ -164,38 +176,6 @@
 "Doughnut"
 ],
 "meaning_expl": "<re>Dōnatsu</re> is the Japanese pronunciation of <me>donuts</me>.<br><br>Originates from: Doughnut",
-"category": "Vocabulary",
-"func": "noun"
-}
-},
-{
-"id": 11,
-"info": {
-"type": "Vocabulary",
-"characters": "卵",
-"meanings": [
-"Egg"
-],
-"meaning_expl": "<re>Tamago</re> means <me>egg</me>.<br><br>Originates from: Egg",
-"readings": [
-"たまご "
-],
-"category": "Vocabulary",
-"func": "noun"
-}
-},
-{
-"id": 12,
-"info": {
-"type": "Vocabulary",
-"characters": "唐揚げ",
-"meanings": [
-"Kara-age"
-],
-"meaning_expl": "<re>Kara-age</re> is a cooking technique in which various foods – most often chicken, but also other meat and fish – are deep fried in oil. The process involves lightly coating small pieces of the meat or fish with a seasoned wheat flour or potato starch mix, and frying in a light oil. Occasionally, the foods are marinated prior to coating with the seasoning mix. The process is similar in technique to the preparation of <i>tempura</i>.<br><br><br>Originates from: Kara-age",
-"readings": [
-"からあげ "
-],
 "category": "Vocabulary",
 "func": "noun"
 }
